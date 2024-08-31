@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Salmanulfaris12/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0344-reverse-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0344-reverse-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
