@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Salmanulfaris12/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
