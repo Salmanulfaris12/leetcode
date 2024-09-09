@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Salmanulfaris12/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
