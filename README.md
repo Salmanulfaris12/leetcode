@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
