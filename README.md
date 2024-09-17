@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Salmanulfaris12/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String Matching
@@ -85,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
