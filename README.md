@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 ## Array
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
