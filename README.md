@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Salmanulfaris12/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Salmanulfaris12/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Salmanulfaris12/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Salmanulfaris12/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
+| [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Enumeration
 |  |
 | ------- |
