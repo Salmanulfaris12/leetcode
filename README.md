@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Salmanulfaris12/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Salmanulfaris12/leetcode/tree/master/1944-truncate-sentence) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Salmanulfaris12/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
