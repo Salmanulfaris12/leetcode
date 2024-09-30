@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Salmanulfaris12/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Salmanulfaris12/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0344-reverse-string) |
 | [1944-truncate-sentence](https://github.com/Salmanulfaris12/leetcode/tree/master/1944-truncate-sentence) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Salmanulfaris12/leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Salmanulfaris12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
