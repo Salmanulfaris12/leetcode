@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Salmanulfaris12/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salmanulfaris12/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Salmanulfaris12/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Salmanulfaris12/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
