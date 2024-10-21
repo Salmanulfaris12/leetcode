@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
