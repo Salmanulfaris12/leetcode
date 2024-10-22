@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Salmanulfaris12/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
 | ------- |
