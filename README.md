@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Array
@@ -210,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Salmanulfaris12/leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
