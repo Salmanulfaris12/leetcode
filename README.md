@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Salmanulfaris12/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Salmanulfaris12/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Salmanulfaris12/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Salmanulfaris12/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salmanulfaris12/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Salmanulfaris12/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Salmanulfaris12/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
