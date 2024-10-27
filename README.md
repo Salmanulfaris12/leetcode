@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Salmanulfaris12/leetcode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Salmanulfaris12/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Salmanulfaris12/leetcode/tree/master/3194-find-words-containing-character) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Salmanulfaris12/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Salmanulfaris12/leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Salmanulfaris12/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Salmanulfaris12/leetcode/tree/master/2502-sort-the-people) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Salmanulfaris12/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Salmanulfaris12/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
