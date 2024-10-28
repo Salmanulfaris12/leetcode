@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Salmanulfaris12/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Salmanulfaris12/leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Salmanulfaris12/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Salmanulfaris12/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Salmanulfaris12/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Salmanulfaris12/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Salmanulfaris12/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Salmanulfaris12/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
