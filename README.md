@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Salmanulfaris12/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Salmanulfaris12/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Salmanulfaris12/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Salmanulfaris12/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Salmanulfaris12/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Salmanulfaris12/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Salmanulfaris12/leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Salmanulfaris12/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Salmanulfaris12/leetcode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Salmanulfaris12/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Salmanulfaris12/leetcode/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
