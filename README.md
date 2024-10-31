@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Salmanulfaris12/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Array
 |  |
 | ------- |
