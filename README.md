@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Salmanulfaris12/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Salmanulfaris12/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Salmanulfaris12/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Salmanulfaris12/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Salmanulfaris12/leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Salmanulfaris12/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
