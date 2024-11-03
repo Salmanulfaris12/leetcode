@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Salmanulfaris12/leetcode/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Salmanulfaris12/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Salmanulfaris12/leetcode/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Salmanulfaris12/leetcode/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
