@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Salmanulfaris12/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Salmanulfaris12/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Salmanulfaris12/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Salmanulfaris12/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Salmanulfaris12/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Salmanulfaris12/leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Salmanulfaris12/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Salmanulfaris12/leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Salmanulfaris12/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Salmanulfaris12/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Salmanulfaris12/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Salmanulfaris12/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Salmanulfaris12/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
