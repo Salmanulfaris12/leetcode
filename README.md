@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Salmanulfaris12/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Salmanulfaris12/leetcode/tree/master/0792-binary-search) |
 | [0979-di-string-match](https://github.com/Salmanulfaris12/leetcode/tree/master/0979-di-string-match) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Salmanulfaris12/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Salmanulfaris12/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Salmanulfaris12/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Salmanulfaris12/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Salmanulfaris12/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salmanulfaris12/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/Salmanulfaris12/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Salmanulfaris12/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
